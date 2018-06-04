@@ -4,7 +4,7 @@
  */
 
 "use strict";
-var dappContactAddress = "n1mjzzrXQYM6tAWoRZ3gs73c5KnMi3kPDEE";
+var dappContactAddress = "n1uJfTLcVtyBbRgxfKMV8D212UR2r9rTKWe";
 var nebulas = require("nebulas"), neb = new nebulas.Neb();
 neb.setRequest(new nebulas.HttpRequest("https://mainnet.nebulas.io"))
 
@@ -139,6 +139,3 @@ window.addEventListener('load', function () {
     }
 
 });
-
-
-

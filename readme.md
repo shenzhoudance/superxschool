@@ -1,8 +1,9 @@
 
 ![SuperxSchool](https://ws1.sinaimg.cn/large/006tKfTcly1frywxrqu93j31kw0vwhdv.jpg)
 
-展示界面：
-购买合约：n1hJN8JkwcCtpCNvZdnmWpLAoR5Ndb98LMk
+展示界面：https://shenzhoudance.github.io/superxschool/index.html
+
+购买合约：n1uJfTLcVtyBbRgxfKMV8D212UR2r9rTKWe
 
 他们的项目名称：
 
