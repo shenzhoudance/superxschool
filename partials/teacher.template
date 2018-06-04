@@ -1,0 +1,17 @@
+<% if (course.length) { %>
+<% course.forEach(function(one){ %>
+<div class="col-xs-4 col-sm-6 col-lg-3">
+  <div class="card"><img src="<%= one.pic_url %>" alt=""/> <span class="caption">
+    <%= one.name %></span>
+    <a href="###" class="card-heading"><strong><%= one.course_name %></strong></a>
+
+    <div class="card-content text-muted line-limit-length">
+      <%= one.summary %>
+    </div>
+    <div class="card-actions"><a href="###"><em class="icon-comment"></em> 343</a> <span
+            class="text-muted">2013-11-12 15:05:56</span><span class="pull-right"><a href="###"><em
+            class="icon-heart-empty"></em> 123</a></span></div>
+  </div>
+</div>
+<% }) %>
+<% } %>
