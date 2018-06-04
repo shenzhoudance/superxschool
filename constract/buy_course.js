@@ -28,7 +28,7 @@ var TheSchool = function () {
 
 TheSchool.prototype ={
     init:function(){
-        
+
     },
 
     save:function(price,course){
