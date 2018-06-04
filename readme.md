@@ -1,5 +1,8 @@
 
-![SuperxSchool(https://ws1.sinaimg.cn/large/006tKfTcly1frywxrqu93j31kw0vwhdv.jpg)
+![SuperxSchool](https://ws1.sinaimg.cn/large/006tKfTcly1frywxrqu93j31kw0vwhdv.jpg)
+
+展示界面：
+购买合约：n1hJN8JkwcCtpCNvZdnmWpLAoR5Ndb98LMk
 
 他们的项目名称：
 
