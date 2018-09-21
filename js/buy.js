@@ -4,7 +4,7 @@
  */
 
 "use strict";
-var dappContactAddress = "n1uJfTLcVtyBbRgxfKMV8D212UR2r9rTKWe";
+var dappContactAddress = "n1sjyqQWRMBS2XHEu5U2qkeTtHorcKvLK2v";
 var nebulas = require("nebulas"), neb = new nebulas.Neb();
 neb.setRequest(new nebulas.HttpRequest("https://mainnet.nebulas.io"))
 
